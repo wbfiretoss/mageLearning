@@ -1,0 +1,6 @@
+django
+django-model-utils
+Pillow
+
+# Only needed for running tests.
+tox
